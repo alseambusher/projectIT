@@ -1,2 +1,6 @@
+DESCRIPTION
 This is basically a web application which can be used by students and teachers to 
 improve teacher-student academic relationship
+THINGS REQUIED
+running apache server
+running MySql db
